@@ -1,0 +1,1 @@
+{"name":"Just-install","tagline":"The stupid package installer for Windows","body":"# Installation\r\n\r\n    msiexec.exe /i http://just-install.github.io/just-install.msi\r\n\r\n# Running\r\n\r\n    just-install firefox visual-c++ python python-setuptools qt pyqt","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
