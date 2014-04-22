@@ -61,7 +61,7 @@ innosetup:
     type: innosetup
 
 notepad++:
-    version: 6.3.2
+    version: 6.5.5
     installer: http://download.tuxfamily.org/notepadplus/${version}/npp.${version}.Installer.exe
     type: nsis
 
